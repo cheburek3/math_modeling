@@ -1,0 +1,13 @@
+import my_lib as ml
+G=ml.G
+print(G)
+    G=6.67e-11
+c=3e+8
+e=1.6e-19
+h=6.6e-34
+g=10
+k=1.38e-23
+Na=6e+23
+R=8.31
+a0=1.38e-11
+F=9.65e4
